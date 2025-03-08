@@ -1,4 +1,4 @@
-## [아이솝 - AI 자세 분석 앱](https://github.com/kimyk0120/Introducing-ISOB)
+# [아이솝 - AI 자세 분석 앱](https://github.com/kimyk0120/Introducing-ISOB)
 ISOB는 스마트폰을 활용한 자세 분석 애플리케이션입니다. AI 기반 인체 인식과 의학적 알고리즘을 통해 자세를 정밀 분석하고, 시계열 데이터 및 그래프로 변화 추적이 가능합니다. 또한, 분석 결과 관리 기능을 제공해 체계적인 건강 관리를 돕습니다. 🚀
 
 ![Screenshot_20250224_165448_isob.jpg](images/isob_img_01.png)
@@ -12,7 +12,7 @@ ISOB는 스마트폰을 활용한 자세 분석 애플리케이션입니다. AI 
 - CI/CD : Github Action
 - Cloud : Oracle Cloud
 
-## [기타 튜너 앱](https://github.com/kimyk0120/Guitar-Tuner-App)
+# [기타 튜너 앱](https://github.com/kimyk0120/Guitar-Tuner-App)
 기타 튜너 앱은 실시간 오디오 분석을 통해 기타의 음정을 맞춰주는 간단하고 직관적인 앱입니다. 🎸
 
 ### 기능
